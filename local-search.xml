@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>hello world</title>
-    <link href="/2026/01/23/hello-world-1/"/>
-    <url>/2026/01/23/hello-world-1/</url>
+    <title>9 避免调试</title>
+    <link href="/2026/01/23/9-%E9%81%BF%E5%85%8D%E8%B0%83%E8%AF%95/"/>
+    <url>/2026/01/23/9-%E9%81%BF%E5%85%8D%E8%B0%83%E8%AF%95/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="1-第一道防线：杜绝漏洞"><a href="#1-第一道防线：杜绝漏洞" class="headerlink" title="1. 第一道防线：杜绝漏洞"></a>1. 第一道防线：杜绝漏洞</h2><p>***The best defense against bugs is to make them impossible by design.<br>防止漏洞的最佳方法是从设计上就让漏洞无法出现。</p><p><em>方式</em> : </p><ul><li>静态检查</li><li>动态检查</li><li>不可变性</li></ul><h2 id="2-第二道防线：定位漏洞"><a href="#2-第二道防线：定位漏洞" class="headerlink" title="2. 第二道防线：定位漏洞"></a>2. 第二道防线：定位漏洞</h2><p><em>方式</em> :</p><ul><li>快速失败</li><li>Assertions断言</li><li>渐进式发展</li><li>模块化和封装</li></ul>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>MIT6.031</tag>
+      
+    </tags>
     
   </entry>
   
