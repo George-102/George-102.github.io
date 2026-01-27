@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>10 抽象数据类型</title>
+    <link href="/2026/01/27/10-%E6%8A%BD%E8%B1%A1%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <url>/2026/01/27/10-%E6%8A%BD%E8%B1%A1%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="什么是抽象"><a href="#什么是抽象" class="headerlink" title="什么是抽象"></a>什么是抽象</h2><ul><li>用更简单、更高层次的概念来省略或隐藏低层次的细节。</li></ul><p>软件工程中其他常见的通用原则名称：</p><ul><li>模块化：将系统划分为组件或模块，每个组件或模块都可以独立于系统的其余部分进行设计、实现、测试、推理和重用。</li><li>封装： 在模块周围建造一堵墙，使模块能够对其自身的内部行为负责，并且系统其他部分的错误不会损害其完整性。</li><li>信息隐藏： 将模块实现的细节对系统的其他部分隐藏起来，以便以后可以在不改变系统其他部分的情况下更改这些细节。</li></ul><h2 id="用户自定义类型"><a href="#用户自定义类型" class="headerlink" title="用户自定义类型"></a>用户自定义类型</h2><ul><li>数据抽象的核心思想在于，类型是由可以对其执行的操作来定义的</li></ul><h2 id="分类类型和运算"><a href="#分类类型和运算" class="headerlink" title="分类类型和运算"></a>分类类型和运算</h2><ul><li>Creators创建器</li><li>Producers生产器</li><li>Observers观察器</li><li>Mutators改变器</li></ul><h2 id="抽象类型由其操作定义"><a href="#抽象类型由其操作定义" class="headerlink" title="抽象类型由其操作定义"></a>抽象类型由其操作定义</h2><h2 id="设计抽象类型"><a href="#设计抽象类型" class="headerlink" title="设计抽象类型"></a>设计抽象类型</h2><h2 id="表征独立性"><a href="#表征独立性" class="headerlink" title="表征独立性"></a>表征独立性</h2><ul><li>一个好的抽象数据类型应该是<em><strong>代表独立</strong></em>这意味着抽象类型的使用与其表示形式（用于实现它的实际数据结构或数据字段）无关</li></ul><h2 id="测试抽象数据类型"><a href="#测试抽象数据类型" class="headerlink" title="测试抽象数据类型"></a>测试抽象数据类型</h2><h2 id="概括"><a href="#概括" class="headerlink" title="概括"></a>概括</h2><ul><li><ul><li>抽象数据类型以其操作方式为特征。</li><li>操作可以分为创建者、生产者、观察者和变异者。</li><li>ADT 的规范是指其操作及其规范的集合。</li><li>一个好的抽象数据类型（ADT）应该是简单、连贯、充分且与表示无关的。</li><li>ADT 的测试方法是为它的每个操作生成测试，但在同一个测试中同时使用创建者、生产者、修改者和观察者。</li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>course</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>MIT6.031</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>9 避免调试</title>
     <link href="/2026/01/23/9-%E9%81%BF%E5%85%8D%E8%B0%83%E8%AF%95/"/>
     <url>/2026/01/23/9-%E9%81%BF%E5%85%8D%E8%B0%83%E8%AF%95/</url>
