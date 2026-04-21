@@ -4,19 +4,6 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2026/04/15/hello-world/"/>
-    <url>/2026/04/15/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>大家好，我是Christopher，这是我第一次在我的网站上发表blog，以后我会在这个网站上记录我的学习经验以及项目成就，希望大家喜欢</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><table><thead><tr><th><strong>命令</strong></th><th><strong>缩写</strong></th><th><strong>功能</strong></th></tr></thead><tbody><tr><td><code>hexo generate</code></td><td><code>hexo g</code></td><td><strong>生成静态文件</strong>（把你的 Markdown 转成 HTML）</td></tr><tr><td><code>hexo server</code></td><td><code>hexo s</code></td><td><strong>本地预览</strong>（启动后在 Windows 浏览器访问 <code>localhost:4000</code>）</td></tr><tr><td><code>hexo deploy</code></td><td><code>hexo d</code></td><td><strong>部署</strong>（推送到 GitHub Pages 等）</td></tr><tr><td><code>hexo clean</code></td><td>无</td><td><strong>清理缓存</strong>（如果发现网页没更新，先执行这个）</td></tr><tr><td><code>hexo new &quot;标题&quot;</code></td><td><code>hexo n</code></td><td><strong>新建文章</strong>（在 <code>source/_posts</code> 生成一个新的 .md 文件）</td></tr></tbody></table>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Some feelings about code with AI</title>
     <link href="/2026/04/13/Some-feelings-about-code-with-AI/"/>
     <url>/2026/04/13/Some-feelings-about-code-with-AI/</url>
@@ -65,6 +52,19 @@
       <tag>Code</tag>
       
     </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2026/03/06/hello-world/"/>
+    <url>/2026/03/06/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>大家好，我是Christopher，这是我第一次在我的网站上发表blog，以后我会在这个网站上记录我的学习经验以及项目成就，希望大家喜欢</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><table><thead><tr><th><strong>命令</strong></th><th><strong>缩写</strong></th><th><strong>功能</strong></th></tr></thead><tbody><tr><td><code>hexo generate</code></td><td><code>hexo g</code></td><td><strong>生成静态文件</strong>（把你的 Markdown 转成 HTML）</td></tr><tr><td><code>hexo server</code></td><td><code>hexo s</code></td><td><strong>本地预览</strong>（启动后在 Windows 浏览器访问 <code>localhost:4000</code>）</td></tr><tr><td><code>hexo deploy</code></td><td><code>hexo d</code></td><td><strong>部署</strong>（推送到 GitHub Pages 等）</td></tr><tr><td><code>hexo clean</code></td><td>无</td><td><strong>清理缓存</strong>（如果发现网页没更新，先执行这个）</td></tr><tr><td><code>hexo new &quot;标题&quot;</code></td><td><code>hexo n</code></td><td><strong>新建文章</strong>（在 <code>source/_posts</code> 生成一个新的 .md 文件）</td></tr></tbody></table>]]></content>
+    
+    
     
   </entry>
   
